@@ -59,12 +59,16 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="java.spring"/>
+			<item value="java.spring1"/>
 			<item value="spring.1"/>
 			<item value="com.javaspring.spring1"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="DIviaConstructor"/>
+			<item value="DISetter"/>
 			<item value="springJavaBasedConfig"/>
 		</list>
 		<list key="projectNameTemplate">
