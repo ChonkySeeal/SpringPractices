@@ -67,6 +67,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="CollectionInitializing"/>
+			<item value="SpringBeanScopes"/>
 			<item value="DIviaConstructor"/>
 			<item value="DISetter"/>
 			<item value="springJavaBasedConfig"/>
