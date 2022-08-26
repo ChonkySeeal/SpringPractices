@@ -18,6 +18,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\nomno\Desktop\code\Java Workplace\SpringMVCHelloWorldExample"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -29,6 +30,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -59,19 +61,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="java.spring"/>
-			<item value="java.spring1"/>
-			<item value="spring.1"/>
-			<item value="com.javaspring.spring1"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="CollectionInitializing"/>
-			<item value="SpringBeanScopes"/>
-			<item value="DIviaConstructor"/>
-			<item value="DISetter"/>
-			<item value="springJavaBasedConfig"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
