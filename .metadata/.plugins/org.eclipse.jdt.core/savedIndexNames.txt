@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.131+C:\Users\nomno\Desktop\code\Java Workplace\.metadata\.plugins\org.eclipse.jdt.core
 1791542910.index
 3691202562.index
@@ -111,3 +112,27 @@ INDEX VERSION 1.131+C:\Users\nomno\Desktop\code\Java Workplace\.metadata\.plugin
 217202197.index
 2243500532.index
 1284629419.index
+=======
+INDEX VERSION 1.131+C:\Users\SJ\Desktop\java workplace\SpringPractices\.metadata\.plugins\org.eclipse.jdt.core
+1706579479.index
+2538134817.index
+4192103272.index
+2822314821.index
+3489942322.index
+2505593101.index
+1850939105.index
+1865797976.index
+2388997864.index
+1158750764.index
+3829354346.index
+2998582750.index
+4278906720.index
+2657141598.index
+2271959486.index
+1184717685.index
+3809211587.index
+2658020970.index
+3578216369.index
+2337261459.index
+2538584523.index
+>>>>>>> 4b313b28bf0583e5ca4b8fe2e4d2ad73f679f470
