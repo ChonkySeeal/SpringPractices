@@ -1,5 +1,6 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,6 +13,8 @@
 </body>
 </html>
 =======
+=======
+>>>>>>> 4b313b28bf0583e5ca4b8fe2e4d2ad73f679f470
 
 <!DOCTYPE html>
 
@@ -50,4 +53,7 @@ Course Code : ${customer.courseCode }
 
 
 
+<<<<<<< HEAD
+>>>>>>> 4b313b28bf0583e5ca4b8fe2e4d2ad73f679f470
+=======
 >>>>>>> 4b313b28bf0583e5ca4b8fe2e4d2ad73f679f470
