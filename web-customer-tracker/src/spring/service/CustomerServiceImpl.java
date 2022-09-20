@@ -10,20 +10,19 @@ import spring.dao.CustomerDAO;
 import spring.entity.Customer;
 
 @Service
+@Transactional
 public class CustomerServiceImpl implements CustomerService {
 
 	@Autowired
 	private CustomerDAO customerDAO;
 
 	@Override
-	@Transactional
 	public List<Customer> getCustomers() {
 
 		return customerDAO.getCustomers();
 	}
 
 	@Override
-	@Transactional
 	public void saveCustomers(Customer customer) {
 
 		customerDAO.saveCustomers(customer);
@@ -31,17 +30,21 @@ public class CustomerServiceImpl implements CustomerService {
 	}
 
 	@Override
-	@Transactional
 	public Customer getCustomer(int theId) {
 
 		return customerDAO.getCustomer(theId);
 	}
 
 	@Override
-	@Transactional
 	public void deleteCustomer(int theId) {
 
 		customerDAO.deleteCustomer(theId);
+	}
+
+	@Override
+	public List<Customer> searchCustomers(String searchname) {
+
+		return customerDAO.searchCustomers(searchname);
 	}
 
 }
