@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\nomno\Desktop\code\Java Workplace\solution-code-spring-security-demo-01-base-app"/>
+			<item value="C:\Users\nomno\Desktop\code\Java Workplace"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
