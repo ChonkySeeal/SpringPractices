@@ -1,4 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-    <typeInfo handle="=spring-security-demo-app-2-basic-security/C:\/Users\/nomno\/.m2\/repository\/org\/springframework\/security\/spring-security-web\/5.0.0.RELEASE\/spring-security-web-5.0.0.RELEASE.jar=/maven.pomderived=/true=/=/org.eclipse.jst.component.archivename=/spring-security-web-5.0.0.RELEASE.jar=/=/maven.groupId=/org.springframework.security=/=/maven.artifactId=/spring-security-web=/=/maven.version=/5.0.0.RELEASE=/=/maven.scope=/compile=/=/maven.pomderived=/true=/=/org.eclipse.jst.component.dependency=/\/WEB-INF\/lib=/&lt;org.springframework.security.web.context(AbstractSecurityWebApplicationInitializer.class[AbstractSecurityWebApplicationInitializer" modifiers="1057" timestamp="1663913711419"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>
